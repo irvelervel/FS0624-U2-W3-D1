@@ -99,3 +99,10 @@ peach.hairColor = 'Blonde' // per aggiungere una proprietà ad un oggetto creato
 delete peach.hairColor // per eliminare una proprietà da un oggetto
 
 console.log('PEACH', peach)
+
+// al fine di attrarre un maggior numero di sviluppatore provenienti da altri linguaggi,
+// nel corso degli anni JS ha introdotto delle nuove direttive e delle nuove
+// funzionalità per accogliere e "far sentire più a casa" questo developers abituati
+// a linguaggi più fortemente orientati agli oggetti
+
+// JS ha introdotto la keyword "class"
